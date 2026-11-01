@@ -1,0 +1,6 @@
+{
+  "name": "QRCodeCraft",
+  "description": "Premium worldwide QR code generator. Create, customize, and download QR codes for URLs, Wi-Fi, vCard, WhatsApp, SMS, social media, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
